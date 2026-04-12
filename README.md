@@ -1,12 +1,11 @@
 # Global Sales Performance Analysis — Multinational Conglomerate (2022–2024)
 
-## Overview
-This project presents an end-to-end data analysis of global sales performance for a fictional multinational conglomerate operating across five regions and eight product categories over a three year period from 2022 to 2024. The project covers the full analyst workflow — synthetic data generation, data cleaning, exploratory data analysis, SQL querying, and constructing an interactive dashboard — using Python, SQL, and Power BI. It demonstrates practical data analysis skills relevant to entry-level data analyst, business intelligence, and financial analyst roles.
+## Overview: This project presents an end-to-end data analysis of global sales performance for a fictional multinational conglomerate operating across five regions and eight product categories over a three year period from 2022 to 2024. The project covers the full analyst workflow - synthetic data generation, data cleaning, exploratory data analysis, SQL querying, and constructing an interactive dashboard - using Python, SQL, and Power BI. It demonstrates practical data analysis skills relevant to entry-level data analyst, business intelligence and financial analyst roles. 
 
 ---
 
 ## Business Problem
-A multinational company experienced a consistent year-over-year revenue decline between 2022 and 2024, representing a cumulative loss of approximately $8.9M in annual revenue. Stakeholders required a clear understanding of where declines were concentrated — by region, by product category, and over time — in order to identify actionable opportunities to reverse the trend. This analysis was designed to answer four core business questions:
+A multinational company experienced a consistent year-over-year revenue decline between 2022 and 2024, representing a cumulative loss of approximately $8.9M in annual revenue. Stakeholders required a clear understanding of where declines were concentrated- by region, by product category, and over time- in order to identify actionable opportunities to reverse the trend. This analysis was designed to answer four core business questions:
 
 1. Which regions generate the most and least revenue?
 2. What product categories are the top sellers by region?
@@ -34,14 +33,14 @@ The raw dataset contains 7,201 rows and 11 columns, with 12% of entries containi
 
 ## Project Workflow
 
-1. **Scope Definition** — Defined the business problem, selected the scenario, and established dataset parameters including regions, product categories, row count, and messiness level.
+1. **Scope Definition** — Defined the business problems, selected the scenario, and established dataset parameters including regions, product categories, row count, and messiness level.
 2. **Data Generation** — Synthetic dataset generated with realistic pricing logic, geographic accuracy, currency matching, and intentional data quality issues.
 3. **Data Cleaning (Python)** — Removed duplicates, handled missing values, standardized formatting, corrected data types, and removed outliers using category-level price caps.
 4. **Exploratory Data Analysis (Python)** — Produced seven charts examining revenue by region, category, year, country, and time to surface key trends and patterns.
 5. **SQL Analysis (SQLite)** — Wrote five queries covering regional revenue share, category performance by region, year-over-year trends using LAG window functions, cumulative change calculation, and seasonal patterns. Surfaced the December transaction value anomaly.
 6. **Dashboard (Power BI)** — Built a six-visual interactive dashboard presenting the core findings for a business audience.
 7. **Insight Narrative** — Wrote a structured business document translating analytical findings into plain language recommendations for stakeholders.
-8. **Documentation** — Organized project files into a structured repository and produced this README.
+8. **Documentation** — Organized project files into a structured repository and created this README.
 
 ---
 
@@ -60,7 +59,7 @@ The raw dataset contains 7,201 rows and 11 columns, with 12% of entries containi
 
 1. **Reduce revenue concentration risk** — Set growth targets for Pharmaceuticals, Consumer Goods, and Automotive Parts with the goal of increasing their combined share of total revenue over the next two to three years.
 2. **Prioritize the Middle East as a growth market** — Its demonstrated recovery above the 2022 revenue baseline suggests a receptive market environment where targeted investment could yield meaningful gains.
-3. **Investigate Latin America's accelerating decline** — Understanding whether the downturn is economic, competitive, or product-fit related is essential before designing and implementing a recovery strategy.
+3. **Investigate Latin America's accelerating decline** — Determining whether the downturn is economic, competitive, or product-fit related is essential before designing and implementing a recovery strategy.
 
 ---
 
