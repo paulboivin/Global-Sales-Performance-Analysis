@@ -65,6 +65,8 @@ The raw dataset contains 7,201 rows and 11 columns, with 12% of entries containi
 
 ## Repository Structure
 
+
+```bash
 Global-Sales-Performance-Analysis/
 │
 ├── README.md                                        — This document
@@ -88,7 +90,8 @@ Global-Sales-Performance-Analysis/
 │   └── Global_Sales_Performance_Dashboard.pbix      — Interactive Power BI dashboard
 │
 └── insights/
-└── Global_Sales_Performance_Insight_Narrative   — Full business narrative and recommendations
+    └── Global_Sales_Performance_Insight_Narrative   — Full business narrative and recommendations
+```
 
 ---
 
