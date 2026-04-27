@@ -1,6 +1,6 @@
 # Global Sales Performance Analysis — Multinational Conglomerate (2022–2024)
 
-## Overview: This project presents an end-to-end data analysis of global sales performance for a fictional multinational conglomerate operating across five regions and eight product categories over a three year period from 2022 to 2024. The project covers the full analyst workflow - synthetic data generation, data cleaning, exploratory data analysis, SQL querying, and constructing an interactive dashboard - using Python, SQL, and Power BI. It demonstrates practical data analysis skills relevant to entry-level data analyst, business intelligence and financial analyst roles. 
+## Overview: This project presents an end-to-end data analysis of global sales performance for a fictional multinational conglomerate operating across five regions and eight product categories over a three year period from 2022 to 2024. The project covers the full analyst workflow - synthetic data generation, data cleaning, exploratory data analysis, SQL querying, and constructing an interactive dashboard - using Python, SQL, and Power BI.
 
 ---
 
