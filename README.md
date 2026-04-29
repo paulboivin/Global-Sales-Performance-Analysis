@@ -62,11 +62,11 @@ The raw dataset contains 7,201 rows and 11 columns, with 12% of entries containi
 
 ## Recommendations
 
-1. **Reduce revenue concentration risk** — Set growth targets for Pharmaceuticals, Consumer Goods, and Automotive Parts with the goal of increasing their combined share of total revenue over the next two to three years.
+1. **Reduce revenue concentration risk** - Set growth targets for Pharmaceuticals, Consumer Goods, and Automotive Parts with the goal of increasing their combined share of total revenue over the next two to three years.
 
-2. **Prioritize the Middle East as a growth market** — Its demonstrated recovery above the 2022 revenue baseline suggests a receptive market environment where targeted investment could yield meaningful gains.
+2. **Prioritize the Middle East as a growth market** - The Middle East region demonstrated recovery above the 2022 revenue baseline suggesting a receptive market environment where targeted investment could yield meaningful gains.
 
-3. **Investigate Latin America's accelerating decline** — Determining whether the downturn is economic, competitive, or product-fit related is essential before designing and implementing a recovery strategy.
+3. **Investigate Latin America's accelerating decline** - Determining whether the downturn is economic, competitive, or product-fit related is essential before designing and implementing a recovery strategy.
 
 ---
 
