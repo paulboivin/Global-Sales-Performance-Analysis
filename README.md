@@ -6,7 +6,7 @@ This project presents an end-to-end data analysis of global sales performance fo
 ---
 
 ## Business Problem
-A multinational company experienced a consistent year-over-year revenue decline between 2022 and 2024, representing a cumulative loss of approximately $8.9M in annual revenue. Stakeholders required a clear understanding of where declines were concentrated- by region, by product category, and over time- in order to identify actionable opportunities to reverse the trend. This analysis was designed to answer four core business questions:
+A multinational company experienced a consistent year-over-year revenue decline between 2022 and 2024, representing a cumulative loss of approximately $8.9M in annual revenue. Stakeholders required a clear understanding of where declines were concentrated, by region, by product category, and over time, in order to identify actionable opportunities to reverse the trend. This analysis was designed to answer four core business questions:
 
 1. Which regions generate the most and least revenue?
 2. What product categories are the top sellers by region?
@@ -34,14 +34,14 @@ The raw dataset contains 7,201 rows and 11 columns, with 12% of entries containi
 
 ## Project Workflow
 
-1. **Scope Definition** — Defined the business problems, selected the scenario, and established dataset parameters including regions, product categories, row count, and messiness level.
-2. **Data Generation** — Synthetic dataset generated with realistic pricing logic, geographic accuracy, currency matching, and intentional data quality issues.
-3. **Data Cleaning (Python)** — Removed duplicates, handled missing values, standardized formatting, corrected data types, and removed outliers using category-level price caps.
-4. **Exploratory Data Analysis (Python)** — Produced seven charts examining revenue by region, category, year, country, and time to surface key trends and patterns.
-5. **SQL Analysis (SQLite)** — Wrote five queries covering regional revenue share, category performance by region, year-over-year trends using LAG window functions, cumulative change calculation, and seasonal patterns. Surfaced the December transaction value anomaly.
-6. **Dashboard (Power BI)** — Built a six-visual interactive dashboard presenting the core findings for a business audience.
-7. **Insight Narrative** — Wrote a structured business document translating analytical findings into plain language recommendations for stakeholders.
-8. **Documentation** — Organized project files into a structured repository and created this README.
+1. **Scope Definition** - Defined the business problems, selected the scenario, and established dataset parameters including regions, product categories, row count, and messiness level.
+2. **Data Generation** - Synthetic dataset generated with realistic pricing logic, geographic accuracy, currency matching, and intentional data quality issues.
+3. **Data Cleaning (Python)** - Removed duplicates, handled missing values, standardized formatting, corrected data types, and removed outliers using category-level price caps.
+4. **Exploratory Data Analysis (Python)** - Produced seven charts examining revenue by region, category, year, country, and time to surface key trends and patterns.
+5. **SQL Analysis (SQLite)** - Wrote five queries covering regional revenue share, category performance by region, year-over-year trends using LAG window functions, cumulative change calculation, and seasonal patterns. Surfaced the December transaction value anomaly.
+6. **Dashboard (Power BI)** - Built a six-visual interactive dashboard presenting the core findings for a business audience.
+7. **Insight Narrative** - Wrote a structured business document translating analytical findings into plain language recommendations for stakeholders.
+8. **Documentation** - Organized project files into a structured repository and created this README.
 
 ---
 
