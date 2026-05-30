@@ -26,7 +26,7 @@ A multinational company experienced a consistent year-over-year revenue decline 
 ---
 
 ## Dataset
-The dataset was synthetically generated for this project using a generative large language model. It represents three years of monthly sales transactions (2022–2024) for a fictional multinational conglomerate operating across five global regions (North America, Europe, Asia-Pacific, Latin America, and the Middle East) and eight product categories: Raw Materials, Industrial Equipment, Food & Beverage, Electronics, Apparel & Footwear, Automotive Parts, Consumer Goods, and Pharmaceuticals.
+The dataset was synthetically generated for this project using a generative large language model. It represents three years of monthly sales transactions (2022 - 2024) for a fictional multinational conglomerate operating across five global regions (North America, Europe, Asia-Pacific, Latin America, and the Middle East) and eight product categories: Raw Materials, Industrial Equipment, Food & Beverage, Electronics, Apparel & Footwear, Automotive Parts, Consumer Goods, and Pharmaceuticals.
 
 The raw dataset contains 7,201 rows and 11 columns, with 12% of entries containing intentional data quality issues, such as duplicate rows, missing values, formatting inconsistencies, incorrect data types, and outliers. This was done to simulate realistic data cleaning conditions. After cleaning, the final dataset contains 6,672 rows across 12 columns.
 
