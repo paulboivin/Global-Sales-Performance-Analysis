@@ -49,15 +49,23 @@ The raw dataset contains 7,201 rows and 11 columns, with 12% of entries containi
 
 • Raw Materials accounts for 70% of total company revenue across all regions, generating nearly ten times more than the second highest category, Industrial Equipment. This concentration creates significant revenue exposure to shifts in global commodity demand.
 
+![Revenue by Category Over Time](charts/chart06_category_over_time.png)
+
 • Total revenue declined 8.95% between 2022 and 2024, falling from $99.4M to $90.5M annually, driven primarily by consistent Raw Materials and Industrial Equipment sales declines across all regions.
 
+![Revenue by Region](charts/chart01_revenue_by_region.png)
+
 • The Middle East is the only region showing growth momentum, recovering above its 2022 revenue baseline by 2024. Asia-Pacific showed partial recovery after a dip in 2023. North America, Europe, and Latin America all declined.
+
+![Revenue by Region Over Time](charts/chart07_region_over_time.png)
 
 • Latin America experienced the sharpest regional decline between 2023 and 2024, broad across all countries in the region, suggesting a regional economic or demand shift rather than a country-specific issue.
 
 • Pharmaceuticals is the lowest performing product category by total revenue and, alongside Consumer Goods and Automotive Parts, represents a potential growth opportunity less directly tied to global commodity dynamics.
   
 • A seasonal revenue anomaly was identified during the SQL analysis; December consistently generates the highest revenue per transaction of any month, nearly double the second ranked month of July, despite having the lowest transaction count. This warrants a separate investigation.
+
+![Revenue by Region](charts/chart01_revenue_by_region.png)
 
 ---
 
