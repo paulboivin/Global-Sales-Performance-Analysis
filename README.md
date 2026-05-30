@@ -65,8 +65,6 @@ The raw dataset contains 7,201 rows and 11 columns, with 12% of entries containi
   
 • A seasonal revenue anomaly was identified during the SQL analysis; December consistently generates the highest revenue per transaction of any month, nearly double the second ranked month of July, despite having the lowest transaction count. This warrants a separate investigation.
 
-![Revenue by Region](charts/chart01_revenue_by_region.png)
-
 ---
 
 ## Recommendations
