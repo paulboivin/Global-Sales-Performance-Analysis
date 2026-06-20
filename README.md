@@ -254,9 +254,9 @@ Global-Sales-Performance-Analysis/
 │        └─ [7 PNG files]                                — Python EDA visualizations
 │
 ├── python/
-│   ├── Global_Sales_Performance_Cleaning.ipynb      — Data cleaning notebook (pandas)
-│   └── Global_Sales_Performance_EDA.ipynb           — Exploratory data analysis notebook
-│
+│   ├── Global_Sales_Performance_Cleaning.ipynb             — Data cleaning notebook (pandas)
+│   ├── Global_Sales_Performance_EDA.ipynb                  — Exploratory data analysis notebook
+│   └── Global_Sales_Performance_Revenue_Simulation.ipynb   — CAGR-based revenue scenario simulation
 ├── sql/
 │   ├── 01_revenue_by_region.sql                     — Regional revenue with share percentage
 │   ├── 02_revenue_by_category_per_region.sql        — Category performance by region
