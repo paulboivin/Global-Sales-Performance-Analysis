@@ -77,6 +77,24 @@ The raw dataset contains 7,201 rows and 11 columns, with 12% of entries containi
 
 ---
 
+## Revenue Impact Simulation
+
+To translate the regional and category findings into forward-looking business impact, a Python simulation was built modeling three 2025 revenue scenarios using each region and category's actual 2022–2024 compound annual growth rate (CAGR). All inputs are derived directly from the cleaned dataset and no figures are assumed.
+
+• If current regional trends continue unchanged, total revenue is projected to decline further to $87.3M in 2025. Stabilizing Latin America's decline at its 2024 level alone would protect approximately $2.5M in revenue relative to this baseline.
+
+• If every region matched the Middle East's 7.44% growth rate — the strongest performer in the dataset — total 2025 revenue would reach $97.3M, a $10.0M upside relative to the baseline trend.
+
+![Revenue Impact Scenario](charts/chart08_revenue_impact_scenarios.png)
+
+• Shifting just 10% of total revenue mix away from the overconcentrated, declining Raw Materials category into the three categories with positive 2022–2024 growth (Apparel & Footwear, Automotive Parts, Consumer Goods) would generate a projected $804K revenue uplift in 2025, even without assuming any change in each category's underlying growth rate.
+
+![Category Diversification](charts/chart09_category_diversification.png)
+
+These scenarios quantify both the revenue at risk from inaction and the upside available from two of the report's core recommendations by stabilizing Latin America and reducing category concentration.
+
+---
+
 ## Repository Structure
 
 
@@ -84,6 +102,17 @@ The raw dataset contains 7,201 rows and 11 columns, with 12% of entries containi
 Global-Sales-Performance-Analysis/
 │
 ├── README.md                                        — This document
+│
+├── charts
+│   ├── charto1_revenue_by_region.png
+│   ├── chart02_revenue_by_category.png
+│   ├── chart03_revenue_by_year.png
+│   ├── chart04_top10_countries.png
+│   ├── chart05_revenue_heatmap.png
+│   ├── chart06_category_over_time.png
+│   ├── chart07_region_over_time.png
+│   ├── chart08_revenue_impact_scenarios.png
+│   └── chart09_category_diversification.png
 │
 ├── data/
 │   ├── raw/
