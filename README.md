@@ -83,7 +83,7 @@ To translate the regional and category findings into forward-looking business im
 
 • If current regional trends continue unchanged, total revenue is projected to decline further to $87.3M in 2025. Stabilizing Latin America's decline at its 2024 level alone would protect approximately $2.5M in revenue relative to this baseline.
 
-• If every region matched the Middle East's 7.44% growth rate — the strongest performer in the dataset — total 2025 revenue would reach $97.3M, a $10.0M upside relative to the baseline trend.
+• If every region matched the Middle East's 7.44% growth rate, the strongest performer in the dataset, total 2025 revenue would reach $97.3M, a $10.0M upside relative to the baseline trend.
 
 ![Revenue Impact Scenario](charts/chart08_revenue_impact_scenarios.png)
 
